@@ -1,5 +1,6 @@
 {
-  "timestamp": "2025-10-11T07:42:49.981Z",
-  "windSpeed": "7.5",
-  "unit": "m/s"
+  "DatumVetra": "11/10/2025",
+  "CasVetra": "09:54:00",
+  "HitrostVetraKnt": "0.0",
+  "SmerVetra": "Ni podatka o smeri"
 }
