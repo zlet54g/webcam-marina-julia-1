@@ -1,0 +1,1 @@
+ta json s podatki z webcam marina julija se ne obnavlja več iz ocr.mjs - je tam izklopljeno
